@@ -20,5 +20,6 @@ class SwaggerConfig {
 }
 
 class Info (){
-    val title : String ()
+    val title = title,
+
 }
